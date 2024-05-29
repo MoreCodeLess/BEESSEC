@@ -1,0 +1,50 @@
+{
+    "deviceState": {
+        "type": "Number",
+        "value": 0
+    },
+    "batteryVoltage": {
+        "type": "Number",
+        "value": 0
+    },
+    "batteryCurrent": {
+        "type": "Number",
+        "value": 0
+    },
+    "batteryTemperature": {
+        "type": "Number",
+        "value": 0
+    },
+    "batteryStateOfCharge": {
+        "type": "Number",
+        "value": 0
+    },
+    "batteryCapacityRemaining": {
+        "type": "Number",
+        "value": 0
+    },
+    "batteryCapacityRemoved": {
+        "type": "Number",
+        "value": 0
+    },
+    "batteryTimeToFull": {
+        "type": "Number",
+        "value": 0
+    },
+    "batteryTimeToDischarge": {
+        "type": "Number",
+        "value": 0
+    },
+    "batteryCapacityReturned": {
+        "type": "Number",
+        "value": 0
+    },
+    "batteryNumberOfChargeCycles": {
+        "type": "Number",
+        "value": 0
+    },
+    "batteryNumberOfDischarges": {
+        "type": "Number",
+        "value": 0
+    }
+}

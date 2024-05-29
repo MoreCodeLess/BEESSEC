@@ -1,0 +1,268 @@
+{
+    "id": "B001",
+    "type": "B1",
+    "deviceState": {
+        "type": "Number",
+        "value": 0
+    },
+    "inverterEnabled": {
+        "type": "Number",
+        "value": 0
+    },
+    "chargerEnabled": {
+        "type": "Number",
+        "value": 0
+    },
+    "sellEnabled": {
+        "type": "Number",
+        "value": 0
+    },
+    "batteryVoltage": {
+        "type": "Number",
+        "value": 0
+    },
+    "batteryCurrent": {
+        "type": "Number",
+        "value": 0
+    },
+    "batteryPower": {
+        "type": "Number",
+        "value": 0
+    },
+    "inverterDCCurrent": {
+        "type": "Number",
+        "value": 0
+    },
+    "inverterDCPower": {
+        "type": "Number",
+        "value": 0
+    },
+    "chargeDCCurrent": {
+        "type": "Number",
+        "value": 0
+    },
+    "chargeDCPower": {
+        "type": "Number",
+        "value": 0
+    },
+    "chargeDCPowerPercentage": {
+        "type": "Number",
+        "value": 0
+    },
+    "gridACFrequency": {
+        "type": "Number",
+        "value": 0
+    },
+    "gridACVoltage": {
+        "type": "Number",
+        "value": 0
+    },
+    "gridACCurrent": {
+        "type": "Number",
+        "value": 0
+    },
+    "gridACPower": {
+        "type": "Number",
+        "value": 0
+    },
+    "gridACInputPowerApparent": {
+        "type": "Number",
+        "value": 0
+    },
+    "gridACInputCurrent": {
+        "type": "Number",
+        "value": 0
+    },
+    "gridACInputVoltage": {
+        "type": "Number",
+        "value": 0
+    },
+    "gridACL1Voltage": {
+        "type": "Number",
+        "value": 0
+    },
+    "gridACL1Current": {
+        "type": "Number",
+        "value": 0
+    },
+    "inverterStatus": {
+        "type": "Number",
+        "value": 0
+    },
+    "chargerStatus": {
+        "type": "Number",
+        "value": 0
+    },
+    "forcedSell": {
+        "type": "Number",
+        "value": 0
+    },
+    "gridOutputVoltage": {
+        "type": "Number",
+        "value": 0
+    },
+    "gridOutputCurrent": {
+        "type": "Number",
+        "value": 0
+    },
+    "gridOutputFrequency": {
+        "type": "Number",
+        "value": 0
+    },
+    "gridOutputPower": {
+        "type": "Number",
+        "value": 0
+    },
+    "gridOutputPowerApparent": {
+        "type": "Number",
+        "value": 0
+    },
+    "loadACVoltage": {
+        "type": "Number",
+        "value": 0
+    },
+    "loadACL1Voltage": {
+        "type": "Number",
+        "value": 0
+    },
+    "loadACL1Current": {
+        "type": "Number",
+        "value": 0
+    },
+    "loadACCurrent": {
+        "type": "Number",
+        "value": 0
+    },
+    "loadACFrequency": {
+        "type": "Number",
+        "value": 0
+    },
+    "loadACPower": {
+        "type": "Number",
+        "value": 0
+    },
+    "loadACPowerApparent": {
+        "type": "Number",
+        "value": 0
+    },
+    "energyFromBatteryDay": {
+        "type": "Number",
+        "value": 0
+    },
+    "batteryDischargeActiveDay": {
+        "type": "Number",
+        "value": 0
+    },
+    "energyFromBatteryMonth": {
+        "type": "Number",
+        "value": 0
+    },
+    "batteryDischargeActiveMonth": {
+        "type": "Number",
+        "value": 0
+    },
+    "energyFromBattery": {
+        "type": "Number",
+        "value": 0
+    },
+    "batteryDischargeActive": {
+        "type": "Number",
+        "value": 0
+    },
+    "energyToBatteryDay": {
+        "type": "Number",
+        "value": 0
+    },
+    "batteryChargeActiveDay": {
+        "type": "Number",
+        "value": 0
+    },
+    "energyToBatteryMonth": {
+        "type": "Number",
+        "value": 0
+    },
+    "batteryChargeActiveMonth": {
+        "type": "Number",
+        "value": 0
+    },
+    "energyToBattery": {
+        "type": "Number",
+        "value": 0
+    },
+    "batteryChargeActive": {
+        "type": "Number",
+        "value": 0
+    },
+    "gridInputEnergyDay": {
+        "type": "Number",
+        "value": 0
+    },
+    "gridInputActiveDay": {
+        "type": "Number",
+        "value": 0
+    },
+    "gridInputEnergyMonth": {
+        "type": "Number",
+        "value": 0
+    },
+    "gridInputActiveMonth": {
+        "type": "Number",
+        "value": 0
+    },
+    "gridInputEnergy": {
+        "type": "Number",
+        "value": 0
+    },
+    "gridInputActive": {
+        "type": "Number",
+        "value": 0
+    },
+    "gridOutputEnergyDay": {
+        "type": "Number",
+        "value": 0
+    },
+    "gridOutputActiveDay": {
+        "type": "Number",
+        "value": 0
+    },
+    "gridOutputEnergyMonth": {
+       "type": "Number",
+        "value": 0
+    },
+    "gridOutputActiveMonth": {
+        "type": "Number",
+        "value": 0
+    },
+    "gridOutputEnergy": {
+        "type": "Number",
+        "value": 0
+    },
+    "gridOutputActive": {
+        "type": "Number",
+        "value": 0
+    },
+    "loadOutputEnergyDay": {
+        "type": "Number",
+        "value": 0
+    },
+    "loadOutputActiveDay": {
+        "type": "Number",
+        "value": 0
+    },
+    "loadOutputEnergyMonth": {
+        "type": "Number",
+        "value": 0
+    },
+    "loadOutputActiveMonth": {
+        "type": "Number",
+        "value": 0
+    },
+    "loadOutputEnergy": {
+        "type": "Number",
+        "value": 0
+    },
+    "loadOutputActive": {
+        "type": "Number",
+        "value": 0
+    }
+}

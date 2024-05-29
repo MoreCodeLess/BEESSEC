@@ -1,0 +1,51 @@
+{
+    "description": "suscripcion a cambios de contexto Monitor",
+    "subject": {
+        "entities": [
+            {
+                "idPattern": ".*",
+                "type": "M1"
+            }
+        ],
+        "condition": {
+            "attrs": [
+                "deviceState",
+                "batteryVoltage",
+                "batteryCurrent",
+                "batteryTemperature",
+                "batteryStateOfCharge",
+                "batteryCapacityRemaining",
+                "batteryCapacityRemoved",
+                "batteryTimeToFull",
+                "batteryTimeToDischarge",
+                "batteryCapacityReturned",
+                "batteryNumberOfChargeCycles",
+                "batteryNumberOfDischarges"
+            ]
+        }
+    },
+    "notification": {
+        "attrs": [
+            "id",
+            "deviceState",
+            "batteryVoltage",
+            "batteryCurrent",
+            "batteryTemperature",
+            "batteryStateOfCharge",
+            "batteryCapacityRemaining",
+            "batteryCapacityRemoved",
+            "batteryTimeToFull",
+            "batteryTimeToDischarge",
+            "batteryCapacityReturned",
+            "batteryNumberOfChargeCycles",
+            "batteryNumberOfDischarges"
+        ],
+        "http": {
+            "url": "http://quantumleap:8668/v2/notify"
+        },
+        "metadata": [
+            "dateCreated",
+            "dateModified"
+        ]
+    }
+}
